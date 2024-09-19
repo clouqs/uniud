@@ -17,10 +17,9 @@ while True:
             print("My guess was" + p)
     else: 
         print("That's not a number!")
-    
+    print("Skibidi")
 
-
-
+#skibidi comment
 
 
 
