@@ -1,7 +1,8 @@
 ## Università degli Studi di Udine
 
-
-### Appunti di Programmazione e Laboratorio
+<div align="center">
+    <span style="color: orange;">Appunti di Programmazione e Laboratorio</span>
+</div>
 
 Vari appunti, progetti e compiti assegnati sono caricati in questa repo!
 
