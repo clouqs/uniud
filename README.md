@@ -1,8 +1,7 @@
 ## Università degli Studi di Udine
 
-<div align="center">
-    <span style="color: orange;">Appunti di Programmazione e Laboratorio</span>
-</div>
+![Static Badge](https://img.shields.io/badge/Appunti%20di%20programmazione%20e%20Laboratorio-darkorange)
+
 
 Vari appunti, progetti e compiti assegnati sono caricati in questa repo!
 
