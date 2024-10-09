@@ -1,7 +1,7 @@
 ## Università degli Studi di Udine
 
 
-![My Image] (https://upload.wikimedia.org/wikipedia/it/thumb/5/55/Logo_Universit%C3%A0_di_Udine.svg/2048px-Logo_Universit%C3%A0_di_Udine.svg.png)
+![Università di Udine Logo](https://upload.wikimedia.org/wikipedia/it/thumb/5/55/Logo_Universit%C3%A0_di_Udine.svg/2048px-Logo_Universit%C3%A0_di_Udine.svg.png)
 
 ### Appunti di Programmazione e Laboratorio
 
