@@ -25,3 +25,6 @@
 (define  femminile?     ; val: booleano (T or F)
   (lambda (s) ; s: stringa
     (char=? (string-ref s (- (string-length s) 1)) #\a)))
+
+
+; Appunti: https://1drv.ms/o/c/7a2117e04902b169/EgJum9nv_DtIiX_XR8vPIGYBdvzltESzLdYZSam3X5GwrA
