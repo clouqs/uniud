@@ -1,0 +1,39 @@
+Lezione
+
+mercoledì 16 ottobre 2024
+08:45
+
+Se non voglio chiudere una stringa, ad esempio
+> " ciao mondo \" ?"
+O: "ciao mondo \" ?"
+ 
+	• Il \ significa che l'editor non deve interpretare la chiusura delle virgolette come chiusura della stringa ma come carattere e basta
+
+
+Funzione string-ref
+
+Es. > (string-ref "A" 0)
+O: #\A
+
+
+>(string #\A)
+"A"
+
+;--------------------------------------------------;
+
+
+
+Conversioni 
+
+mercoledì 16 ottobre 2024
+09:06
+
+Da carattere a intero
+
+>(char->integer #\A)
+O: 65
+
+Il contrario:
+
+>(integer->char 65)
+O: #\A
