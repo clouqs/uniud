@@ -1,4 +1,6 @@
-
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname |lezione 24.10.24|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 (define btr-val
   (lambda (btr)
     (let (
@@ -20,8 +22,5 @@
           )
     ))
 
-
-;; bilancia ternaria con numeri in base 3: dove - == -1 // . == 0 // + == +1
-;; i numeri vengono scritti e convertiti da base 3 a base 10
-
+    
     
