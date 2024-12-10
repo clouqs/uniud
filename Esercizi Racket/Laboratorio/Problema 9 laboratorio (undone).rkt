@@ -21,5 +21,34 @@
 
 
 
+; Parte II ;
+
+(define (H f g)
+  (lambda (m n)
+    (if (= n 0)
+        (f m)
+        (g m ((H f g) m (- n 1)))
+        )
+    ))
+
+
+(define i (lambda (x) x))
+
+(define z (lambda (x) 0))
+
+(define u (lambda (x) 1))
+
+(define s2 (lambda (u v) (+ v 1))) 
+
+
+
+(define add (H i s2))
+
+(define mul (H z (lambda (m v) (add m v)))) 
+
+(define pow (H u (lambda (m v) (mul m v))))
+
+
+
 
 
